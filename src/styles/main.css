@@ -1,0 +1,29 @@
+html{
+    height: 100vh;
+    min-width: 600px;
+    background-image: linear-gradient(130deg,#FFFF,lightblue);
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+  
+  div{
+    background-color: aqua;
+  }
+  
+  button{
+    font-size: 3 rem;
+    background-color: #FFFF;
+    border: none;
+    color: green;
+  }
+  
+  button:hover{
+    color: blue;
+  }
+  
+  li{
+    display: flex;
+    border-bottom: 3px solid gold;
+    padding: 15px 0;
+    font-size: 1rem;
+  }
