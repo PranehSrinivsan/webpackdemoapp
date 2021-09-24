@@ -1,3 +1,5 @@
+const Listitem = {};
+
 function list(){//Helpers
     var template = Handlebars.compile(op);
   
