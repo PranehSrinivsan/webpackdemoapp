@@ -1,0 +1,11 @@
+button{
+    font-size: 3 rem;
+    background-color: #FFFF;
+    border: none;
+    color: green;
+  }
+  
+  button:hover{
+    color: blue;
+  }
+  
