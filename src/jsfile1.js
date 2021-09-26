@@ -1,4 +1,4 @@
-import {list} from './file2';
+import {list} from './jsfile2';
 
 const Listitem = {};
  

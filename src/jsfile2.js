@@ -1,10 +1,10 @@
 import {op} from './index';
-import {getItems} from './file1';
+import {Listitem} from './jsfile1';
 
 export function list(){//Helpers
   var template = Handlebars.compile(op);
   
-    var elements=template(getItems);
+    var elements = template(Listitem);
       /*{
       task: Listitem.task,
       cat: Listitem.cat,
